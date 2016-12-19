@@ -67,8 +67,8 @@ ipNumber = 0
 
 #API Account Parameters
 API_URL = "https://www.censys.io/api/v1"
-UID = ""
-SECRET = ""
+UID = "" #Complete with your own UID
+SECRET = "" #Complete with your own SECRET
 
 #Query Parameters
 query = ""
